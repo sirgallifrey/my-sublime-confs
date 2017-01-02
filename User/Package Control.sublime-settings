@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ESLint",
+		"Git",
+		"Git Config",
+		"GitHub Flavored Markdown Preview",
+		"Gitignore",
+		"GitSavvy",
+		"Google Spell Check",
+		"JSONLint",
+		"Package Control",
+		"PHP-Twig",
+		"Phpcs",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-php",
+		"Terminal",
+		"TernJS"
+	]
+}

@@ -2,6 +2,10 @@
 *
 # ... except preferences
 !.gitignore
+!readme.md
+
+!User/
+
 !User/Preferences.sublime-settings
 !User/unAutoSemiColon.sublime-macro
 !User/SublimeCodeIntel.sublime-settings
