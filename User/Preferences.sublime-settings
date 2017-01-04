@@ -5,11 +5,17 @@
 		"chai"
 	],
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"drag_text": false,
 	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"shift_tab_unindent": true,
 	"spell_check": true,
-	"theme": "Boxy Tomorrow.sublime-theme"
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
