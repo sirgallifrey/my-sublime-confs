@@ -2,9 +2,10 @@
 	"added_words":
 	[
 		"px",
-		"chai"
+		"chai",
+		"redux"
 	],
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 16,
 	"ignored_packages":
 	[
