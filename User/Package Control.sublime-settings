@@ -8,14 +8,10 @@
 		"All Autocomplete",
 		"Boxy Theme",
 		"BracketHighlighter",
+		"CSS3",
 		"ESLint",
-		"Git",
-		"Git Config",
-		"GitHub Flavored Markdown Preview",
 		"Gitignore",
-		"GitSavvy",
-		"Google Spell Check",
-		"Jimbly's Clipboard History",
+                "Jimbly's Clipboard History",
 		"JSONLint",
 		"Package Control",
 		"PHP-Twig",
@@ -26,7 +22,6 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-php",
-		"Terminal",
-		"TernJS"
+		"Terminal"
 	]
 }
