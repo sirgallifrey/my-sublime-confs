@@ -11,7 +11,8 @@
 		"CSS3",
 		"ESLint",
 		"Gitignore",
-                "Jimbly's Clipboard History",
+		"Jimbly's Clipboard History",
+		"JSON Reindent",
 		"JSONLint",
 		"Package Control",
 		"PHP-Twig",
@@ -20,8 +21,10 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-php",
-		"Terminal"
+		"Terminal",
+		"YAML Nav"
 	]
 }
